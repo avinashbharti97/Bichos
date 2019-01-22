@@ -3,9 +3,5 @@ name = Bichos
 bundle_id = org.laptop.Bichos
 exec = sugar-activity SugarBichos.Bichos
 icon = Bichos
-<<<<<<< HEAD
-activity_version = 1
-=======
 activity_version = 2
->>>>>>> new/master
 show_launcher = yes
